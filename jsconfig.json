@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"allowJs": true,
+		"jsx": "preserve",
+		"baseUrl": ".",
+		"useDefineForClassFields": false,
+		"paths": {
+			"@/*": ["src/*"]
+		}
+	},
+	"exclude": ["dist", "node_modules", "public"]
+}

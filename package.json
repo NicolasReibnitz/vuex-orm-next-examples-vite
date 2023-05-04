@@ -1,0 +1,24 @@
+{
+	"name": "vuex-orm-next-examples-vite",
+	"version": "1.0.0",
+	"private": true,
+	"author": "Nicolas Reibnitz <n.reibnitz@gmail.com> (https://daslaboratory.com/)",
+	"type": "module",
+	"scripts": {
+		"build": "vite build",
+		"dev": "vite",
+		"preview": "vite preview"
+	},
+	"dependencies": {
+		"@vuex-orm/core": "^1.0.0-draft.16",
+		"normalize.css": "^8.0.1",
+		"vue": "^3.2.47",
+		"vuex": "^4.0.2"
+	},
+	"devDependencies": {
+		"@vitejs/plugin-vue": "^4.1.0",
+		"eslint": "^8.39.0",
+		"eslint-plugin-vue": "^9.11.0",
+		"vite": "^4.3.2"
+	}
+}
